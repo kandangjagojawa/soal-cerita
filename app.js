@@ -156,7 +156,7 @@ function showScoreModal(soalList) {
   const wrongCount = soalList.length - correctCount;
 
   // Bahasa Jawa Krama Biasa transliterasi
-  const scoreTextLatin = `panjenengan leres ${correctCount} wangsulan lan klentu ${wrongCount} wangsulan.`;
+  const scoreTextLatin = `panjeneng-an leres ${correctCount} wangsul-an lan kléntu ${wrongCount} wangsul-an.`;
   const fractionTextLatin = `${correctCount}/${soalList.length}`;
 
   const scoreTextEl = document.getElementById('modal-score-text');
