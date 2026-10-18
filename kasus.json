@@ -1414,5 +1414,123 @@
         "kunci": 0
       }
     ]
+  },
+  {
+    "id": 13,
+    "judul": "crita 13",
+    "gambar": "crita13.jpg",
+    "cerita": "saben dinten sonten, gembil, naréndra, suryani, kartika, lan krisna sami kempal wonten ing pendhapa sekolah saperlu latih-an karawit-an lan tembang dolan-an. bocah gangsal punika saweg nyiap-aken dhiri kanggé tumut lomba seni tradhisional antar sekolah. ing wiwit-an latih-an, swanten lan tabuh-an gamel-an katon déréng raras amargi saben bocah taksih ngunggul-aken pikajeng-ipun piyambak piyambak nalika nggayuh swara lan wirama.\n\nmriksa-ni kawonten-an kasebut, bapak guru lajeng maring-i pituduh babag-an kedhisiplin-an lan wigatos-ing nglaras swanten sarta wirama. bocah gangsal punika lajeng sadhar sarta sinau nglerem-aken pikajeng-ipun piyambak piyambak supados saged nyatunggal-aken tabuh-an saron, kendhang, lan swanten tembang. kanthi kasetyan lan kekompak-an tim punika, péntas karawit-an dados harmonis sanget, saéngga ngremen-aken manah lan nambah rasa tresna dhumateng kabudayan jawa.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "kanggo acara apa bocah-bocah iku padha latih-an karawit-an lan tembang dolan-an?",
+        "pilihan": [
+          "hajat pasedulur-an",
+          "lomba seni tradhisional antar sekolah",
+          "pamér-an pasar ing dhusun",
+          "pésta ambal warsa sekolah"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "apa sing dadi jalar-an swanten lan tabuh-an gamel-an durung raras ing wiwit-an latih-an?",
+        "pilihan": [
+          "amarga para bocah taksih ngunggul-aké karep-é dhéwe dhéwé",
+          "amarga gamel-ané wis rusak kabéh",
+          "amarga ora ana sing bisa nembang",
+          "amarga para bocah padha ngelak lan kesel"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "sapa sing paring pituduh lan piwulang babag-an kedisiplin-an marang para bocah?",
+        "pilihan": [
+          "bapak kepala dhusun",
+          "ibu guru basa jawa",
+          "bapak guru",
+          "para wali murid"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 4,
+        "pertanyaan": "ana ing ngendi gembil lan mitra mitra-né padha latih-an karawit-an?",
+        "pilihan": [
+          "ing balé dhusun",
+          "ing lapang-an désa",
+          "ing njero perpustakaan",
+          "ing pendhapa sekolah"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing kudu dilakon-i déning para bocah supados tabuh-an lan swanten tembang dados harmonis?",
+        "pilihan": [
+          "ngalah lan ninggal-aké latihan",
+          "nglerem-aké pangajeng lan njaga kekompak-an tim",
+          "nabuh gamel-an sakarep-é dhéwé",
+          "ngganti piranti gamel-an sing anyar"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "pikantuk ajar-an luhur apa saking kegiat-an nyiap-aké péntas karawit-an punika?",
+        "pilihan": [
+          "rasa sombong amarga pinter",
+          "kepéngin dipuji marang kanca",
+          "kedisiplin-an, kekompak-an, lan tresna kabudayan",
+          "semangat golék bathi lan bandha"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 7,
+        "pertanyaan": "piranti gamel-an apa waé sing dicrita-kaké ing tuladha tabuh-an kasebut?",
+        "pilihan": [
+          "saron lan kendhang",
+          "suling lan gitar",
+          "angklung lan biola",
+          "ketipung lan terbana"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé asil-é péntas karawit-an sawisé para bocah padha sadhar lan kompak?",
+        "pilihan": [
+          "dadi sepi lan ora ana sing ndeleng",
+          "dadi wening lan ora ana swara",
+          "dadi ramé lan bubar kabéh",
+          "dadi harmonis sanget lan ngremen-aké manah"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\raras\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "béda utawa ora cocok",
+          "banter utawa kasar",
+          "reged utawa rusuh",
+          "selaras, harmonis lan trep"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\wirama\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "ukuran wirama lan swara ing tembang lan musik",
+          "rasa bungah ing njero ati",
+          "gerak-é awak-é panggamel",
+          "piranti kanggo nabuh gamel-an"
+        ],
+        "kunci": 0
+      }
+    ]
   }
 ]
