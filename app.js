@@ -271,7 +271,7 @@ function renderAll() {
 
   stopLatinTimer();
 
-  document.getElementById('ui-title').textContent = convertToAksara("Aplikasi Maca Aksara Jawa");
+  document.getElementById('ui-title').textContent = convertToAksara("Crita lan Soal Aksara Jawa");
   document.getElementById('ui-label-paugeran').textContent = convertToAksara("Pilih Pa-uger-an:");
   document.getElementById('ui-label-story').textContent = convertToAksara("Pilih Crita:");
   document.getElementById('ui-questions-title').textContent = convertToAksara("Wangsul-ana Pitakon-Pitakon Ing Ngisor Iki:");
