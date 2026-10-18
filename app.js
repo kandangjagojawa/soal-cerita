@@ -138,6 +138,41 @@ async function loadTransliterators() {
   }
 }
 
+function hideScoreModal() {
+  const modal = document.getElementById('score-modal');
+  if (modal) modal.style.display = 'none';
+}
+
+function showScoreModal(soalList) {
+  if (!soalList || soalList.length === 0) return;
+
+  let correctCount = 0;
+  soalList.forEach((q, qIndex) => {
+    if (userAnswers[qIndex] === q.kunci) {
+      correctCount++;
+    }
+  });
+
+  const wrongCount = soalList.length - correctCount;
+
+  // Bahasa Jawa Krama Biasa transliterasi
+  const scoreTextLatin = `panjenengan leres ${correctCount} wangsulan lan klentu ${wrongCount} wangsulan.`;
+  const fractionTextLatin = `${correctCount}/${soalList.length}`;
+
+  const scoreTextEl = document.getElementById('modal-score-text');
+  const fractionEl = document.getElementById('modal-score-fraction');
+  const nextBtnEl = document.getElementById('modal-next-btn');
+  const modal = document.getElementById('score-modal');
+
+  if (scoreTextEl) scoreTextEl.textContent = convertToAksara(scoreTextLatin);
+  if (fractionEl) fractionEl.textContent = convertToAksara(fractionTextLatin);
+  if (nextBtnEl) nextBtnEl.textContent = convertToAksara('sabanjur-é');
+
+  if (modal) modal.style.display = 'flex';
+
+  updateActiveFont();
+}
+
 document.addEventListener('DOMContentLoaded', async () => {
   const paugeranInputs = document.querySelectorAll('input[name="paugeran"]');
   if (paugeranInputs.length > 0) {
@@ -157,6 +192,7 @@ document.addEventListener('DOMContentLoaded', async () => {
     storySelect.addEventListener('change', (e) => {
       currentKasusIndex = parseInt(e.target.value, 10);
       userAnswers = {};
+      hideScoreModal();
       renderAll();
     });
   }
@@ -164,6 +200,19 @@ document.addEventListener('DOMContentLoaded', async () => {
   const nextBtn = document.getElementById('next-story-btn');
   if (nextBtn) {
     nextBtn.addEventListener('click', () => {
+      if (currentKasusIndex < kasusData.length - 1) {
+        currentKasusIndex++;
+        userAnswers = {};
+        hideScoreModal();
+        renderAll();
+      }
+    });
+  }
+
+  const modalNextBtn = document.getElementById('modal-next-btn');
+  if (modalNextBtn) {
+    modalNextBtn.addEventListener('click', () => {
+      hideScoreModal();
       if (currentKasusIndex < kasusData.length - 1) {
         currentKasusIndex++;
         userAnswers = {};
@@ -265,6 +314,12 @@ function renderAll() {
     nextBtn.style.display = 'none';
   }
 
+  // Jika modal sedang terbuka, re-render teks modal dengan paugeran yang baru dipilih
+  const modal = document.getElementById('score-modal');
+  if (modal && modal.style.display !== 'none') {
+    showScoreModal(activeKasus.soal);
+  }
+
   updateActiveFont();
 }
 
@@ -310,6 +365,11 @@ function renderSoal(soalList) {
         optBtn.addEventListener('click', () => {
           userAnswers[qIndex] = optIndex;
           renderAll();
+
+          // Cek apakah seluruh pertanyaan pada cerita ini sudah dijawab
+          if (Object.keys(userAnswers).length === soalList.length) {
+            showScoreModal(soalList);
+          }
         });
       }
 
