@@ -1296,5 +1296,123 @@
         "kunci": 2
       }
     ]
+  },
+  {
+    "id": 12,
+    "judul": "crita 12",
+    "gambar": "crita12.jpg",
+    "cerita": "wonten ing pawon, tini sarta setya kanthi remen mbiyantu simbah damel jajan-an pasar kuna ingkang nami thiwul sarta gethuk kanggé acara pamér-an wonten ing sekolah. bocah kalih punika mireng-aken pituduh saking simbah babag-an cara-nipun ngolah bahan alami supados rasa sarta wujud-ipun dados éca. tini tlatén ngudhak adhon-an, déné setya mbiyantu nyawos-aken piranti sarta godhong gedhang ingkang sampun diresik-i.\n\nsinambi ngolah bahan, simbah ugi ngendika-kaken piwulang sarta filosofi ingkang wonten ing jajan-an kasebut kanggé katenang-an manah. simbah ngendika bilih olah olah punika mbetah-aken kasabar-an ingkang tulus supados asil-ipun ngremen-aken. tini kaliyan setya sangsaya ngurmat-i piwulang saking simbah sarta saya semangat njaga waris-an kuna punika supados mboten ical kadhahar ing jaman.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "apa aran-é jajan-an pasar kuna sing digawé déning simbah, tini, lan setya?",
+        "pilihan": [
+          "roti lan bolu",
+          "thiwul lan gethuk",
+          "nagasari lan klepon",
+          "serabi lan apem"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "kanggo acara apa jajan-an pasar kasebut digawé?",
+        "pilihan": [
+          "rapat warga",
+          "syukur-an ing omah",
+          "acara pamér-an ing sekolah",
+          "pésta ambal warsa"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing ditindak-aké tini nalika mbiyantu simbah ing pawon?",
+        "pilihan": [
+          "ngudhak adhon-an kanthi tlatén",
+          "nyawos-aké godhong gedhang",
+          "tumbas bahan ing pasar",
+          "ngresik-i piring lan gelas"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "piranti apa sing disawos-aké déning setya kanggo simbah?",
+        "pilihan": [
+          "piring lan séndhok",
+          "kayu lan kompor",
+          "wadhah plastik lan kain",
+          "piranti lan godhong gedhang sing wis diresik-i"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing dadi piwulang utawa filosofi saka simbah nalika olah olah?",
+        "pilihan": [
+          "kudu cepet-cepet amargi ngoyak wektu",
+          "mbutuh-aké kasabar-an ingkang tulus",
+          "kudu ngguna-kaké mesin anyar",
+          "mbutuh-aké biaya sing larang"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa guna-né nyrita-kaké filosofi jajan-an marang tini lan setya?",
+        "pilihan": [
+          "kanggo katenang-an manah lan nambah kawruh",
+          "supaya bocah bocah dadi gampang kesel",
+          "kanggo ngisi wektu sing suwé",
+          "supaya bocah bocah bisa dodol-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "kepiyé sikap-é tini lan setya marang simbah sawis-é ngrungo-kaké piwulang-é?",
+        "pilihan": [
+          "ora peduli karo piwulang-an kasebut",
+          "mlayu metu saka pawon",
+          "sangsaya ngurmat-i pituduh saka simbah",
+          "ngelapor-aké marang ibu guru"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "apa sing bisa dijupuk saka crita ing ndhuwur?",
+        "pilihan": [
+          "pamér marang kanca kanca",
+          "seneng dolan-an ing ngendi waé",
+          "tuku jajan-an ing toko",
+          "njaga waris-an kabudayan lan ngurmat-i wong tuwa"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\éca\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "pait utawa ora énak",
+          "énak utawa sedhep",
+          "panas utawa pedhes",
+          "mentah utawa durung mateng"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\mbetah-aken\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "mbutuh-aké",
+          "mbuwang",
+          "ninggal-aké",
+          "mènèh-aké"
+        ],
+        "kunci": 0
+      }
+    ]
   }
 ]
