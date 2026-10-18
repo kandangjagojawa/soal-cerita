@@ -1532,5 +1532,123 @@
         "kunci": 0
       }
     ]
+  },
+  {
+    "id": 14,
+    "judul": "crita 14",
+    "gambar": "crita14.jpg",
+    "cerita": "saben wanci préi, prasaja, slamet, sinaréndra, joko, sarta kanca kanca-nipun ndhérek kegiat-an kémah sekolah ingkang kawonten-aken ing sanginggil-ing dhusun ingkang asri. nalika dumugi ing papan kasebat, para laré kanthi semangat saha gotong royong ngadeg-aken téndha sarta nata piranti sasampun-ipun nyiyap-aken palemah-an. prasaja lan joko ketingal lincah ngadeg-aken pathok, déné slamet sarta sinaréndra nglempak-aken kayu garing kanggé ndamel geni unggun ing wanci dalu.\n\nnalika wanci dalu dumugi, swasana kémah sangsaya ramé saha gayeng amargi para laré kempal ing sakubeng-ipun geni unggun saperlu nembang sarta nyarios-aken pengalam-an. prasaja lan joko maring-i pagelar-an alit ingkang ngremen-aken, déné slamet lan sinaréndra nyaos-aken wédang anget sarta jajan-an kanggé para kanca. kegiat-an kémah punika mboten namung maringi rasa bingah, nanging ugi ngundhak-aken kekompak-an sarta rasa pasedulur-an ing sajeroning manah.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "kegiat-an apa sing ditindak-aké déning prasaja lan kanca kanca-né?",
+        "pilihan": [
+          "dolan-an bal bal-an",
+          "pamér-an seni",
+          "kémah sekolah",
+          "mlaku mlaku ing pasar"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "ana ing ngendi kegiat-an kémah sekolah kasebut diana-kaké?",
+        "pilihan": [
+          "ing ndhuwur dhusun sing asri",
+          "ing njero lapang-an bal bal-an",
+          "ing pinggir pantai",
+          "ing njero aula sekolah"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing ditindak-aké prasaja lan joko nalika tekan ing papan kémah?",
+        "pilihan": [
+          "ngumpul-aké kayu garing",
+          "masang pathok lan ngedeg-aké téndha",
+          "nggawé wédang anget",
+          "nembang ing ngarep téndha"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa tugas-é slamet lan sinaréndra sadurung-é wanci dalu teka?",
+        "pilihan": [
+          "nggawé pangan-an lan wédang",
+          "nyapu papan panyabrang-an",
+          "masang lampu hias",
+          "ngumpul-aké kayu garing kanggo geni unggun"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 5,
+        "pertanyaan": "kepiyé swasana nalika wanci dalu ing sakupeng-é geni unggun?",
+        "pilihan": [
+          "ramé lan gayeng",
+          "sepi lan peteng",
+          "panas lan medé-ni",
+          "sedhih lan sepi"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing ditindak-aké prasaja lan joko nalika kumpul ing geni unggun?",
+        "pilihan": [
+          "nyaos-aké wédang anget",
+          "maring-i pagelar-an alit sing ngremen-aké",
+          "turu ing njero téndha",
+          "masang pathok anyar"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing disaos-aké déning slamet lan sinaréndra kanggo para kanca?",
+        "pilihan": [
+          "és dhawet lan roti",
+          "nangka lan gedhang",
+          "wédang anget lan jajan-an",
+          "sega goréng lan soto"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "mupangat apa sing dipikoléh-i saka kegiat-an kémah kasebut?",
+        "pilihan": [
+          "rasa péngin dialem lan pamér",
+          "kekompak-an lan pasedulur-an",
+          "rasa sombong marang kanca",
+          "rasa males lan gampang kesel"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\dalu\\] ing crita ing ndhuwur nduwè-ni teges padha karo",
+        "pilihan": [
+          "ésuk",
+          "awan",
+          "soré",
+          "bengi"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gayeng\\] ing crita ing ndhuwur nduwè-ni teges yaiku",
+        "pilihan": [
+          "sepi banget",
+          "ngremen-aké, ramé lan nyenangaké",
+          "susah banget",
+          "peteng lan medé-ni"
+        ],
+        "kunci": 1
+      }
+    ]
   }
 ]
