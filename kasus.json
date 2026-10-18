@@ -1178,5 +1178,123 @@
         "kunci": 1
       }
     ]
+  },
+  {
+    "id": 11,
+    "judul": "crita 11",
+    "gambar": "crita11.jpg",
+    "cerita": "nalika wanci énjang, gembil, naréndra, suryani, kartika, lan krisna sami lumampah nyaket-i lépén ing inggil dhusun saperlu mriksa-ni aliran toya. bocah gangsal punika kagét amargi alir-an toya lépén katon suda lan boten mili kanthi lancar. sasampun-ipun dipunpriksa, jebul wonten tumpuk-an pang lan godhong garing ingkang ngalang-i margining toya saéngga damel alir-aning lépén katutup.\n\nmriksa-ni kawonten-an kasebut, gembil lan mitra mitra-nipun lajeng ngajak para mudha lan warga dhusun kanggé nindak-aken gugur gunung utawi nyambut damel sesareng-an. para warga sami semangat lan gotong royong ngresik-i tumpuk-an sampah sarta pang ingkang ngalang-i sumber toya punika. sasampun-ipun resik, aliran toya lépén saged mili lancar malih saéngga para warga sami bingah lan manunggal njaga kalestarian lingkung-an dhusun.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "apa sing njalar-i alir-an banyu lépén ing inggil dhusun dadi suda?",
+        "pilihan": [
+          "amarga diusung déning para warga",
+          "amarga ana banjir gedhé",
+          "amarga banyu-né diombe kéwan",
+          "amarga katutup tumpuk-an pang lan godhong garing"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sapa sing sepisan-an mriksa lan nemo-kaké sumber banyu sing katutup?",
+        "pilihan": [
+          "para simbah lan para pedagang",
+          "ibu ibu ing balé dhusun",
+          "pak lurah désa piyambak-an",
+          "gembil, naréndra, suryani, kartika, lan krisna"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 3,
+        "pertanyaan": "ing ngendi panggon-an lépén sing aliran-é katutup kasebut?",
+        "pilihan": [
+          "ing njero pasar",
+          "ing inggil dhusun",
+          "ing ngarep sekolah",
+          "ing pinggir lapang-an bal bal-an"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa sing ditindak-aké gembil lan kanca kanca-né sawis-é ngerté-ni kahan-an kasebut?",
+        "pilihan": [
+          "ngajak para mudha lan warga gugur gunung",
+          "dolan-an banyu nganti soré",
+          "mlayu mulih lan turu",
+          "meneng waé ora peduli"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 5,
+        "pertanyaan": "kepiyé sikap-é para warga lan para mudha nalika diajak gugur gunung?",
+        "pilihan": [
+          "bingung lan duka",
+          "sedhih lan wedi",
+          "semangat lan gotong royong",
+          "ora gelem mbiyantu"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé kahan-an alir-an toya lépén sawis-é ditindak-aké gugur gunung?",
+        "pilihan": [
+          "mambu lan reged",
+          "wis ora mili manéh",
+          "saged mili lancar malih",
+          "dadi saya suda banyu-né"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing bisa dijupuk saka tumindak-é gembil lan kancané?",
+        "pilihan": [
+          "rasa sombong marang warga",
+          "rasa pengin dialem déning guru",
+          "sikap pamer marang kanca liyané",
+          "kepedulian lingkung-an lan kerukun-an warga"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé perasaan-é para warga sawis-é sumber banyu dadi resik manéh?",
+        "pilihan": [
+          "bingah lan seneng banget",
+          "muring-muring lan gopoh",
+          "wedi lan kagét",
+          "sedhih lan kuciwa"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\suda\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "dadi sithik",
+          "tambah akéh",
+          "dhuwur banget",
+          "resik banget"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\mitra\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "mungsuh",
+          "wong liya",
+          "kanca",
+          "pedagang"
+        ],
+        "kunci": 2
+      }
+    ]
   }
 ]
