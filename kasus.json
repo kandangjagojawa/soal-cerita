@@ -1886,5 +1886,123 @@
         "kunci": 3
       }
     ]
-  }
+  },
+  {
+    "id": 17,
+    "judul": "crita 17",
+    "gambar": "crita17.jpg",
+    "cerita": "éyang Amrih punika satunggal-ing nimpuna basa lan aksara jawa ingkang gigih ngrembaka-kaken aksara jawa wonten ing jaman punika. piyambak-ipun nggina-kaken sarana digital kayata aplikasi ing papan pangetik-an sarta kaca wéb kanggé nggampil-aken para mudha kayata tini, setya, prasaja, gembil, sinaréndra, jaka, slamet, lan kanca kanca-nipun nyinao-ni cara-nipun maos lan nulis aksara jawa.\n\namargi cara piwulang-an-ipun ingkang nengsem-aken, kathah warga ingkang sami remen lan semangat sinau sesareng-an. para bocah lan masarakat sangsaya lincah sarta kulina nggina-kaken aksara jawa wonten ing piranti séluler lan papan nami ing saubeng-ing dhusun, saéngga aksara jawa sangsaya lestari lan kuncara.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa aran-é nimpuna basa lan aksara jawa ingkang dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "bapak lurah désa",
+          "gembil",
+          "éyang Amrih",
+          "bapak guru"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "sarana apa sing digunak-aké déning éyang Amrih kanggo ngrembaka-kaken aksara jawa?",
+        "pilihan": [
+          "papan tulis kayu",
+          "layang-an lan gambar",
+          "buku cilik kuna",
+          "sarana digital kayata aplikasi lan kaca wéb"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 3,
+        "pertanyaan": "sapa waé bocah-bocah sing melu nyinao-ni aksara jawa marang éyang Amrih?",
+        "pilihan": [
+          "tini, setya, prasaja, gembil, lan kanca kanca-né",
+          "para pedagang ing pasar",
+          "para buruh pabrik",
+          "para simbah ing dhusun"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 4,
+        "pertanyaan": "kepiyé cara piwulang-an-ipun éyang Amrih marang para siswa?",
+        "pilihan": [
+          "medéni lan galak",
+          "nengsem-aken saéngga nggawé warga remen lan semangat",
+          "gampang nggawé bingung",
+          "sora lan nesu-nesu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "ana ing ngendi para bocah lan masarakat saiki kulina nggina-kaken aksara jawa?",
+        "pilihan": [
+          "ing njero selokan",
+          "ing alas gedhé",
+          "ing piranti séluler lan papan nami saubeng-ing dhusun",
+          "ing njero mobil waé"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa tujuan-é éyang amrih ngrembaka-kaken aksara jawa nganggo piranti digital?",
+        "pilihan": [
+          "kanggo dodol pinter",
+          "supaya aksara jawa sangsaya lestari lan kuncara",
+          "supaya dipuji ing pasar",
+          "kanggo pamér marang tangga"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "apa sing ditindak-aké warga sawis-é ngrasa seneng marang cara piwulang-an-ipun éyang amrih?",
+        "pilihan": [
+          "mlayu mulih",
+          "nggawa pangan-an ing kelas",
+          "dolan-an bal bal-an",
+          "sinau sesareng-an kanthi semangat"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé kawasis-an-é para bocah sawis-é sinau aksara jawa saka aplikasi digital?",
+        "pilihan": [
+          "sangsaya lincah lan kulina nggina-kaken aksara jawa",
+          "dadi duka lan bingung",
+          "lali karo cara-né maos",
+          "ora bisa nulis manéh"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\nimpuna\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "wong bodho",
+          "wong anyar",
+          "wong sing pinter banget",
+          "wong males"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\kuncara\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "peteng lan sepi",
+          "misuwur, kaloka utawa kondhang",
+          "rusak banget",
+          "ilang tanpa bekas"
+        ],
+        "kunci": 1
+      }
+    ]
+  }  
 ]
