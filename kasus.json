@@ -2122,5 +2122,123 @@
         "kunci": 0
       }
     ]
+  },
+    {
+    "id": 19,
+    "judul": "crita 19",
+    "gambar": "crita19.jpg",
+    "cerita": "nalika wanci soré, murni, danu, bagus, lan ratih kempal wonten ing warung dhahar-ipun pak danang ingkang kawentar amargi sadaya menu dhahar-an katulis mawi aksara jawa. pak danang ngajak para bocah ameng ameng-an nebak aran-ing dhahar-an lan unjuk-an kayata dhawet, serabi, lan jadah lumantar piranti layar tutul ingkang saged ngedal-aken swanten nalika aksara jawa kasebut dipunpindha-i.\n\nsaben bocah ingkang saged maos menu mawi aksara jawa kanthi leres saged ngicip-i dhahar-an kasebut kanthi manah ingkang bingah. murni lan bagus katon lincah sanget amargi sampun kulina nyinao-ni aksara jawa wonten ing dalem-ipun, déné danu lan ratih sangsaya semangat sinau supados boten ketinggal-an. kegiat-an punika ndados-aken piwulang-an aksara jawa krasa nengsem-aken lan gampil dipunmangertos-i déning para mudha.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa waé paraga anyar ingkang dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "gembil, tini, lan setya",
+          "murni, danu, bagus, lan ratih",
+          "amrih, laras, lan prasaja",
+          "slamet, joko, lan sinaréndra"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "ana ing ngendi murni lan kanca kanca-né padha kempal nalika wanci soré?",
+        "pilihan": [
+          "ing balé dhusun",
+          "ing lapang-an désa",
+          "ing warung dhahar-ipun pak danang",
+          "ing sekolah-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing nggawé warung dhahar-ipun pak danang kasebut dadi kawentar?",
+        "pilihan": [
+          "amargi rega pangan-an-é murah banget",
+          "amargi sedaya menu dhahar-an katulis mawi aksara jawa",
+          "amargi panggon-an-é ing pinggir alas",
+          "amargi adol dolan-an kuna"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 4,
+        "pertanyaan": "conto dhahar-an lan unjuk-an apa waé sing katulis ing menu kasebut?",
+        "pilihan": [
+          "soto, bakso, lan és téh",
+          "roti, klepon, lan kopi",
+          "dhawet, serabi, lan jadah",
+          "thiwul, gethuk, lan és dhawet"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 5,
+        "pertanyaan": "piranti apa sing diguna-kaké kanggo ngedal-aken swanten nalika aksara jawa dipunpindha-i?",
+        "pilihan": [
+          "piranti layar tutul",
+          "radhiyo kuna",
+          "kothak kayu",
+          "piring-an ireng"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing dipikantuk déning bocah sing saged maos menu aksara jawa kanthi leres?",
+        "pilihan": [
+          "pikantuk dhuwit saking pak danang",
+          "saged ngicip-i dhahar-an kanthi manah ingkang bingah",
+          "dipunparing-i buku cathet-an anyar",
+          "dipun kéngkén umbah umbah piring"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "sapa bocah sing katon lincah sanget amargi sampun kulina nyinao-ni aksara jawa ing dalem-ipun?",
+        "pilihan": [
+          "danu lan ratih",
+          "murni lan bagus",
+          "pak danang lan para warga",
+          "ratih lan danu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 8,
+        "pertanyaan": "kepiyé sikap-ipun danu lan ratih sawis-é mriksa-ni murni lan bagus sing pinter maos aksara jawa?",
+        "pilihan": [
+          "mlayu mulih lan sedhih",
+          "muring muring marang pak danang",
+          "sangsaya semangat sinau supados boten ketinggal-an",
+          "mbuwang menu dhahar-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\kawentar\\] ing crita ndhuwur nduwén-i teges padha karo",
+        "pilihan": [
+          "sepi utawa ora ana sing ngerti",
+          "misuwur, kondhang utawa kaloka",
+          "cilik utawa sithik",
+          "rusuh utawa reged"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gampil\\] ing pungkas-an crita ndhuwur nduwén-i teges yaiku",
+        "pilihan": [
+          "angél utawa susah",
+          "gampang utawa pénak",
+          "larang",
+          "adoh"
+        ],
+        "kunci": 1
+      }
+    ]
   }
 ]
