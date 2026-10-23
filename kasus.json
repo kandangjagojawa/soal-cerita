@@ -2004,5 +2004,123 @@
         "kunci": 1
       }
     ]
-  }  
+  },
+    {
+    "id": 18,
+    "judul": "crita 18",
+    "gambar": "crita18.jpg",
+    "cerita": "éyang amrih ngawonten-aken ameng ameng-an digital ingkang nami-nipun pados pusaka aksara kanggé para bocah ing dhusun. gembil, tini, setya, prasaja, lan kanca kanca-nipun kanthi semangat muter-i dhusun nggina-kaken piranti séluler kanggé mindha-i kodhé ing papan pituduh ingkang katulis mawi aksara jawa.\n\nsaben bocah kedah maos lan ngalih aksara-kaken sandhi aksara jawa kasebut supados saged mangertos-i panggén-an pituduh pungkas-an. amargi lomba punika sangsaya gayeng lan nengsem-aken, para bocah boten namung nguyak juara, nanging ugi sangsaya lincah lan remen nyinaun-i aksara jawa wonten ing jaman sapunika.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "sapa aran-é nimpuna basa lan aksara jawa ingkang nggawé ameng ameng-an digital pados pusaka aksara?",
+        "pilihan": [
+          "bapak lurah",
+          "bapak guru",
+          "éyang amrih",
+          "gembil"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "piranti apa sing diguna-kaké para bocah kanggo mindha-i kodhé ing papan pituduh?",
+        "pilihan": [
+          "piranti séluler",
+          "kaca pembesar",
+          "pring lan kayu",
+          "lampu senthir"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "katulis mawi aksara apa sandhi pituduh sing ana ing papan kasebut?",
+        "pilihan": [
+          "aksara pégon",
+          "aksara latin",
+          "aksara kawi",
+          "aksara jawa"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 4,
+        "pertanyaan": "sapa waé bocah bocah sing melu ameng ameng-an pados pusaka aksara?",
+        "pilihan": [
+          "gembil, tini, setya, prasaja, lan kanca kanca-né",
+          "para pedagang lan ibu-ibu",
+          "para simbah ing dhusun",
+          "para guru"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing kudu dilako-ni para bocah sawis-é mindha-i kodhé kasebut?",
+        "pilihan": [
+          "mlayu mulih dhisik",
+          "maos lan ngalih aksara-kaken sandhi aksara jawa",
+          "adol piranti séluler",
+          "mbuwang papan pituduh"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 6,
+        "pertanyaan": "kepiyé swasana lomba pados pusaka aksara kasebut?",
+        "pilihan": [
+          "sepi lan gawé wedi",
+          "sangsaya gayeng lan nengsem-aken",
+          "gawé nesu para warga",
+          "peteng dhedhet"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "saliya-né ngoyak juara, apa mumpangat sing dipikantuk para bocah saka kegiat-an iki?",
+        "pilihan": [
+          "dadi males sinau",
+          "bisa pamér marang kanca",
+          "oléh dhuwit akéh",
+          "sangsaya lincah lan remen nyinao-ni aksara jawa"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "ing ngendi papan katulis-é kodhé lan sandhi aksara jawa kasebut?",
+        "pilihan": [
+          "ing papan pituduh ing saubeng-ing dhusun",
+          "ing njero selok-an",
+          "ing njero pasar kéwan",
+          "ing gendhéng omah"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\pados\\] ing crita ndhuwur nduwén-i teges padha karo",
+        "pilihan": [
+          "ngedol utawa adol",
+          "mbuwang utawa ilang",
+          "nggolék-i utawa mados-i",
+          "ngrusak utawa ngobong"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\gayeng\\] ing crita ndhuwur nduwén-i teges yaiku",
+        "pilihan": [
+          "nyenang-aké lan ramé",
+          "sepi banget",
+          "peteng dhedhet",
+          "sedhih lan susah"
+        ],
+        "kunci": 0
+      }
+    ]
+  }
 ]
