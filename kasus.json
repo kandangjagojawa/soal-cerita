@@ -2240,5 +2240,123 @@
         "kunci": 1
       }
     ]
+  },
+    {
+    "id": 20,
+    "judul": "crita 20",
+    "gambar": "crita20.jpg",
+    "cerita": "nalika wanci préi, kulawarga punika nindak-aken pelesir-an dhumateng pulo biak ing papua ingkang kawentar amargi kaéndah-an alam-ipun ingkang élok sanget. wonten ing ngriku, para wisatawan saged mriksa-ni segara ingkang wening kados kaca mawi wedhi pethak ing pasisir bosnik, sarta wit krambil ingkang ngrembuyung ing pinggir segara. hawa ingkang seger lan sumilir-ing angin damel sinten waé ingkang rawuh krasa tentrem lan ngremen-aken manah.\n\nsaliya-nipun mriksa-ni pasisir, para dhayoh ugi saged ngundhak-aken kaseneng-an mawi ngundhuh olah olah-an iwak segara ingkang taksih énggal sarta mirunggan pulo biak. kerukun-an lan kawonten-an masarakat papua ingkang semanak sarta grapyak sanget nalika nampa-ni para tamu damel swasana pelesir-an sangsaya gayeng. kasedhiyan sarta kaéndah-an ing pulo biak punika dados pengalam-an ingkang manis sanget lan boten saged kalalé-kaken.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "ing ngendi panggon-an pelesir-an sing dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "pulo jawa",
+          "pulo biak ing papua",
+          "pulo bali",
+          "pulo sumatra"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 2,
+        "pertanyaan": "kepiyé kahanan banyu segara lan pasir ing pasisir bosnik?",
+        "pilihan": [
+          "banyu-né wening kados kaca lan pasir-é pethak",
+          "banyu-né mambu lan pasir-é ireng",
+          "banyu-né abang lan pasir-é reged",
+          "banyu-né panas lan pasir-é kebak sampah"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "wit apa sing katon ngrembuyung ing pinggir segara?",
+        "pilihan": [
+          "wit pelem",
+          "wit gedhang",
+          "wit krambil",
+          "wit jati"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 4,
+        "pertanyaan": "olah olah-an apa sing dadi ciri lan bisa didhahar ing pulo biak?",
+        "pilihan": [
+          "pangan-an dhaging sapi",
+          "olah olah-an iwak segara sing taksih énggal",
+          "jajan-an pasar tiwul",
+          "roti lan keju"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "kepiyé sikap-é masarakat papua ing pulo biak nalika nampa-ni para tamu utawa wisatawan?",
+        "pilihan": [
+          "wedi lan mlayu",
+          "muring muring lan galak",
+          "ora peduli marang tamu",
+          "semanak sarta grapyak sanget"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 6,
+        "pertanyaan": "apa sing nggawé para wisatawan krasa tentrem lan ngremen-aken manah nalika ing pasisir?",
+        "pilihan": [
+          "swara montor sing banter",
+          "hawa ingkang seger lan sumilir-ing angin",
+          "swara banyu udan deres",
+          "swara pethél lan kayu"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 7,
+        "pertanyaan": "aran-ing pasisir apa sing dicrita-kaké nduwé-ni wedhi pethak ing pulo biak",
+        "pilihan": [
+          "pasisir parangtritis",
+          "pasisir kuta",
+          "pasisir bosnik",
+          "pasisir sanur"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 8,
+        "pertanyaan": "rasa apa sing dipikantuk sawis-é nindak-aken pelesir-an menyang pulo biak",
+        "pilihan": [
+          "pengalam-an ingkang manis lan sarwa bingah",
+          "rasa kapok lan péngin énggal mulih",
+          "rasa sedhih lan gampang kesel",
+          "rasa bingung amarga ora ana pangan-an"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\wening\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "reged utawa keruh",
+          "bening utawa resik banget",
+          "panas utawa pait",
+          "peteng lan medé-ni"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\semanak\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "ngajén-i lan grapyak marang wong liya",
+          "seneng muring muring",
+          "milih milih kanca",
+          "péngin menang dhéwé"
+        ],
+        "kunci": 0
+      }
+    ]
   }
 ]
