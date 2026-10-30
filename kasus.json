@@ -2358,5 +2358,123 @@
         "kunci": 0
       }
     ]
+  },
+    {
+    "id": 21,
+    "judul": "crita 21",
+    "gambar": "crita21.jpg",
+    "cerita": "saben ménget-i dinten ambal warsa kamardikan républik indonésia, para warga ing dhusun sami nindak-aken pawé kanthi bungah lan ngremen-aken sanget. wonten ing pawé punika, para paraga lan bocah bocah kayata gembil, tini lan setya sami nggina-kaken busana adat saking manéka warni lalad-an sarta rasuk-an pahlawan ingkang katata rapi.\n\nsaliya-nipun busana tradhisional, ingkang dados ciri ing pawé kamardikan punika inggih punika iring iring-an kendharaan ingkang katata hias mawi werni abang pethak lan janur kuning. para warga ingkang mriksa-ni ing pinggir mergi sami keplok keplok lan ngguyu bingah nalika wonten swanten musik lan ogoh ogoh ingkang lumampah. pawé punika ndados-aken pasedulur-an sangsaya raket sarta nambah rasa tresna dhumateng nagari.",
+    "soal": [
+      {
+        "id": 1,
+        "pertanyaan": "kanggo ménget-i acara apa para warga nindak-aken pawé?",
+        "pilihan": [
+          "pasar malam",
+          "perpisah-an sekolah",
+          "dinten ambal warsa kamardikan républik indonésia",
+          "kémah sekolah"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 2,
+        "pertanyaan": "apa sing diguna-kaké déning gembil, tini lan setya nalika melu pawé?",
+        "pilihan": [
+          "busana adat lan rasuk-an pahlawan",
+          "klambi olah raga",
+          "sragam sekolah",
+          "jas lan gaun anyar"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 3,
+        "pertanyaan": "apa sing dadi ciri khas ing iring iring-an pawé kamardikan kasebut?",
+        "pilihan": [
+          "sepédha motor balap",
+          "dhahar-an pasar ing tampah",
+          "klambi perang anyar",
+          "kendharaan ingkang katata hias mawi werni abang pethak lan janur kuning"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 4,
+        "pertanyaan": "apa tembung ing basa jawa sing nduwé-ni teges padha karo karnaval utawa paradhe?",
+        "pilihan": [
+          "pasar",
+          "pawé utawa kirab",
+          "arisan",
+          "réwang"
+        ],
+        "kunci": 1
+      },
+      {
+        "id": 5,
+        "pertanyaan": "apa sing ditindak-aké para warga ing pinggir mergi nalika mriksa-ni pawé?",
+        "pilihan": [
+          "turu ing suket-an",
+          "mlayu mulih",
+          "keplok keplok lan ngguyu bingah",
+          "mbuwang sampah"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 6,
+        "pertanyaan": "werni apa sing diguna-kaké kanggo ngias kendharaan ing pawé kamardikan?",
+        "pilihan": [
+          "abang lan pethak",
+          "ireng lan kuning",
+          "ijo lan biru",
+          "coklat lan wungu"
+        ],
+        "kunci": 0
+      },
+      {
+        "id": 7,
+        "pertanyaan": "rasa apa sing sangsaya kuwat sawis-é para warga nindak-aken pawé sesareng-an?",
+        "pilihan": [
+          "rasa péngin menang dhéwé",
+          "rasa sombong",
+          "rasa males sinau",
+          "rasa pasedulur-an lan tresna dhumateng nagari"
+        ],
+        "kunci": 3
+      },
+      {
+        "id": 8,
+        "pertanyaan": "sapa waé paraga bocah ingkang dicrita-kaké ing ndhuwur?",
+        "pilihan": [
+          "murni, danu lan bagus",
+          "slamet, joko lan amrih",
+          "gembil, tini lan setya",
+          "laras, prasaja lan krisna"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 9,
+        "pertanyaan": "tembung [\\pawé\\] ing crita ndhuwur nduwé-ni teges padha karo",
+        "pilihan": [
+          "pawiwah-an utawa pésta",
+          "panggén-an adol",
+          "iring iring-an utawa kirab",
+          "sekolah-an"
+        ],
+        "kunci": 2
+      },
+      {
+        "id": 10,
+        "pertanyaan": "tembung [\\raket\\] ing crita ndhuwur nduwé-ni teges yaiku",
+        "pilihan": [
+          "adoh banget",
+          "cedhak utawa rukun banget",
+          "gampang nesu",
+          "susah lan sedhih"
+        ],
+        "kunci": 1
+      }
+    ]
   }
 ]
